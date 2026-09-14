@@ -81,10 +81,10 @@ O funcionamento do CHAD pode ser resumido em quatro etapas:
 https://github.com/user-attachments/assets/a4fb16c3-1c23-4ded-9d28-d3cd20273304
 
 
-<img width="900" height="1600" alt="Imagem do prototipo construido" src="https://github.com/user-attachments/assets/cad8e4d8-c33f-455e-923e-f38c39aa637c" />
+https://github.com/user-attachments/assets/cad8e4d8-c33f-455e-923e-f38c39aa637c
 
 
-<img width="1200" height="1600" alt="Inicio da construção do prototipo" src="https://github.com/user-attachments/assets/9f938b7a-f220-4154-994d-a1131418ec07" />
+https://github.com/user-attachments/assets/9f938b7a-f220-4154-994d-a1131418ec07
 
 
 
