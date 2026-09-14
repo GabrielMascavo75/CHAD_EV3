@@ -79,12 +79,11 @@ O funcionamento do CHAD pode ser resumido em quatro etapas:
 ```
 
 
-https://github.com/GabrielMascavo75/CHAD_EV3/blob/03fc80780f3e6e731e061aada8964d5b70d346f5/assets/Inicio_da_constru%C3%A7%C3%A3o_do_prototipo.jpeg
-https://github.com/GabrielMascavo75/CHAD_EV3/blob/20c390ca4be0c6aa5e8c125268c86e9f4ecc97cc/assets/Imagem_do_prototipo_construido.jpeg
+
 ## 📸 Protótipo
 
 <p align="center">
-  <img src="./assets/Imagem_do_prototipo_construido.jpeg" width="300">
+  <img src="./assets/Imagem_do_prototipo_construido.jpeg" width="250">
 </p>
 <p align="center">
   <img src="./assets/Inicio_da_construção_do_prototipo.jpeg" width="300">
