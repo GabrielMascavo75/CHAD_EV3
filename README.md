@@ -76,11 +76,13 @@ O funcionamento do CHAD pode ser resumido em quatro etapas:
         │ Aguarda novo toque   │
         └──────────────────────┘
 
+---
 
-
-assets/Inicio_da_construção_do_prototipo.jpeg
+##
 
 https://github.com/GabrielMascavo75/Robotic-EV3-/blob/c35aa95522c581a38f7561c11875a61ae100dbfc/assets/Imagem_do_prototipo_construido.jpeg
+
+https://github.com/GabrielMascavo75/CHAD_EV3/blob/b4c3c626dce92a2cbfb1107f6c6e288f87743861/assets/Inicio_da_constru%C3%A7%C3%A3o_do_prototipo.jpeg
 
 
 
