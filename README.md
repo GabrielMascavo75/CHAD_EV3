@@ -82,9 +82,13 @@ O funcionamento do CHAD pode ser resumido em quatro etapas:
 
 ## 📸 Protótipo
 
-<p align="center">
-  <img src="./assets/Imagem_do_prototipo_construido.jpeg" width="300">
-</p>
+Imagem do início da construção do C.H.A.D:
 <p align="center">
   <img src="./assets/Inicio_da_construção_do_prototipo.jpeg" width="300">
 </p>
+
+Imagem do protótipo construído em sua forma final:
+<p align="center">
+  <img src="./assets/Imagem_do_prototipo_construido.jpeg" width="300">
+</p>
+
