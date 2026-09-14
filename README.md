@@ -1,4 +1,10 @@
 # 🤖 CHAD — Coreógrafo Humanoide Articulado de Dança
+**Equipe:**
+
+- Cauan Lemos Souza — RA: 2402120
+- Filipe Vale Moreira — RA: 2401241
+- Gabriel Macedo de Araujo Vieira — RA: 2401585
+- Guilherme Pinheiro dos Santos — RA: A definir
 
 Projeto desenvolvido para a disciplina de **Robótica**, utilizando o **LEGO Mindstorms EV3** e programação em **Python**.
 
