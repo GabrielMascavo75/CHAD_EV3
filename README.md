@@ -78,7 +78,7 @@ O funcionamento do CHAD pode ser resumido em quatro etapas:
 
 
 
-https://github.com/user-attachments/assets/a4fb16c3-1c23-4ded-9d28-d3cd20273304
+[https://github.com/user-attachments/assets/a4fb16c3-1c23-4ded-9d28-d3cd20273304](https://github.com/GabrielMascavo75/Robotic-EV3-/blob/main/assets/Imagem_do_prototipo_construido.jpeg)
 
 
 https://github.com/user-attachments/assets/cad8e4d8-c33f-455e-923e-f38c39aa637c
