@@ -1,10 +1,10 @@
-# 🤖 CHAD — Coreógrafo Humanoide Articulado de Dança
+# 🤖 CHAD — Controlador Humanoide Articulado de Dança
 **Equipe:**
 
 - Cauan Lemos Souza — RA: 2402120
 - Filipe Vale Moreira — RA: 2401241
 - Gabriel Macedo de Araujo Vieira — RA: 2401585
-- Guilherme Pinheiro dos Santos — RA: A definir
+- Guilherme Pinheiro dos Santos — RA: 2401832
 
 Projeto desenvolvido para a disciplina de **Robótica**, utilizando o **LEGO Mindstorms EV3** e programação em **Python**.
 
@@ -75,3 +75,16 @@ O funcionamento do CHAD pode ser resumido em quatro etapas:
         ┌──────────────────────┐
         │ Aguarda novo toque   │
         └──────────────────────┘
+
+
+
+https://github.com/user-attachments/assets/a4fb16c3-1c23-4ded-9d28-d3cd20273304
+
+
+<img width="900" height="1600" alt="Imagem do prototipo construido" src="https://github.com/user-attachments/assets/cad8e4d8-c33f-455e-923e-f38c39aa637c" />
+
+
+<img width="1200" height="1600" alt="Inicio da construção do prototipo" src="https://github.com/user-attachments/assets/9f938b7a-f220-4154-994d-a1131418ec07" />
+
+
+
