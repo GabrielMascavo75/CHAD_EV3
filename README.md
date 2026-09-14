@@ -76,8 +76,6 @@ O funcionamento do CHAD pode ser resumido em quatro etapas:
         │ Aguarda novo toque   │
         └──────────────────────┘
 
-
-
-
+```
 
 
