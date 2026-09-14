@@ -86,3 +86,6 @@ https://github.com/GabrielMascavo75/CHAD_EV3/blob/20c390ca4be0c6aa5e8c125268c86e
 <p align="center">
   <img src="./assets/Imagem_do_prototipo_construido.jpeg" width="300">
 </p>
+<p align="center">
+  <img src="./assets/" width="300">
+</p>
