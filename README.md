@@ -92,3 +92,6 @@ Imagem do protótipo construído em sua forma final:
   <img src="./assets/Imagem_do_prototipo_construido.jpeg" width="300">
 </p>
 
+## 🎥 Vídeo do projeto
+
+[▶️ Assistir ao vídeo do CHAD no YouTube](https://youtube.com/shorts/RnXnnhZpyhU?feature=share)
