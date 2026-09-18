@@ -1,5 +1,8 @@
 # 🤖 CHAD — Controlador Humanoide Articulado de Dança
 **Equipe:**
+<p align="center">
+  <img src="assets/grupo_projeto.jpeg" width="300">
+</p>
 
 - Cauan Lemos Souza — RA: 2402120
 - Filipe Vale Moreira — RA: 2401241
